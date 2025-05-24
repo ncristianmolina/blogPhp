@@ -1,0 +1,8 @@
+/*clave primaria es el identificador de cada uno de los registros y
+ me va servir para relacionar con otras tablas*/
+la CLAVE FORANIA (un campo que apunta a otra tabla) 
+significa Q SE VA GUARDAR un identificador DE OTRA TABLA 
+para hacer referencia a un registro de otra tabla ,
+COMO POR EJEMPLO EN TABLA ENTRADAS se va a guardar EL ID_CATEGORIA 
+que sería EL ID DE LA CATEGORIA y se va a 
+vincular con tal registro de la tabla categoria.
